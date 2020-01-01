@@ -1,0 +1,21 @@
+body {
+    background-color: whitesmoke;
+    color: black;
+    margin: 0;
+    padding: 5px;
+}
+
+nav {
+    align-items: center;
+    background-color: red;
+    display: flex;
+    height: 80px;
+    justify-content: space-evenly;
+}
+
+nav a{
+    color: black;
+    font-size: 14pt;
+    text-decoration: none;
+}
+
